@@ -10,6 +10,6 @@ package demousegitduanhihi;
  */
 public class haituyet {
     public static void main(String[] args) {
-        System.out.println("kkkkkkkkkkkkkk");
+        System.out.println("hhhhhhhhhhhhh");
     }
 }

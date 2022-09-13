@@ -18,6 +18,7 @@ public class DemoUseGitDuAnHihi {
         System.out.println("Xin chào các bạn đã đến với Github");
         System.out.println("Giờ thì bạn hãy tạo mới file \n");
         System.out.println("Rồi sau đó commit lên, rồi push \n Là bạn đã hoàn thành rồi");
+        System.out.println("Hello a thang day");
     }
     
 }

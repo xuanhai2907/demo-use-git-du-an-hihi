@@ -14,7 +14,7 @@ public class DemoUseGitDuAnHihi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Xin chào các bạn đã đến với Github");
+        System.out.println("Xin chào các bạn đã dfasf");
     }
     
 }

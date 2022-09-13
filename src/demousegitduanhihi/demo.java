@@ -13,5 +13,6 @@ public class demo {
         
           System.out.println("hihi");
           System.out.println("hahahahaha");
+          System.out.println("1hai");
     }
 }

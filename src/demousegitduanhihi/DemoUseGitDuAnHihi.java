@@ -16,6 +16,7 @@ public class DemoUseGitDuAnHihi {
     public static void main(String[] args) {
         System.out.println("Hello a thang day");
         System.out.println("das");
+        System.out.println("Hello a huy day");
     }
     
 }

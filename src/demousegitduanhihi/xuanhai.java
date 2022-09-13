@@ -8,7 +8,7 @@ package demousegitduanhihi;
  *
  * @author window
  */
-public class hai {
+public class xuanhai {
     public static void main(String[] args) {
         System.out.println("Hai");
     }

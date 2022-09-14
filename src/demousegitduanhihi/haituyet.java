@@ -11,5 +11,6 @@ package demousegitduanhihi;
 public class haituyet {
     public static void main(String[] args) {
         System.out.println("hhhhhhhhhhhhh");
+        System.out.println("hai yeu tuyet");
     }
 }
